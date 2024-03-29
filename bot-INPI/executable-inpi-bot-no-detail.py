@@ -1,12 +1,12 @@
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webbot-INPI/executable-inpi-bot.pydriver.support import expected_conditions as EC
+from selenium.webdriver.support import expected_conditions as EC
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains 
 
-bot-INPI/executable-inpi-bot.pyfrom selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
